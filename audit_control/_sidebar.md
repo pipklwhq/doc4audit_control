@@ -2,3 +2,4 @@
 - [基础软件安装](2-Install.md)
 - [系统部署](3-Deploy.md)
 - [启动应用](4-Starting.md)
+- [初始化系统](5-Init.md)

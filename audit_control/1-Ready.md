@@ -15,4 +15,5 @@
 ### 建议安装软件
 + Chrome浏览器：[点击下载](http://download.trweilai.cn/windows/107.0.5304.122_chrome64_stable_windows_installer.exe)
 + Sublime文本编辑器：[点击下载](http://download.trweilai.cn/windows/sublime_text_build_4143_x64_setup.exe)
++ Postman测试工具：[点击下载](http://download.trweilai.cn/windows/Postman-win64-Setup.exe)
 + Navicat
