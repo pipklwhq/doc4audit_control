@@ -22,7 +22,7 @@ AUDIT_PWD：安装数据库时设置的用户密码
 
 
 ### 启动应用并加载到Windows服务(服务器重启后无需再次执行)
-进入D:\nginx，双击执行install.bat
-进入D:\audit\apps\audit_server，双击执行server_install.bat
-进入D:\audit\apps\audit_mgmt，双击执行mgmt_install.bat
-进入D:\audit\apps\audit_message_socket，双击执行socket_install.bat
+进入D:\nginx，双击执行install.bat  
+进入D:\audit\apps\audit_server，双击执行server_install.bat  
+进入D:\audit\apps\audit_mgmt，双击执行mgmt_install.bat  
+进入D:\audit\apps\audit_message_socket，双击执行socket_install.bat  
