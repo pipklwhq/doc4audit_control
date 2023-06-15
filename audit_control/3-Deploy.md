@@ -1,5 +1,7 @@
 ### 获取应用部署必须的程序与脚本
-联系相关人
+获取时需提供以下信息
++ 医院ID
++ 医院完整名称
 
 
 ### 创建应用目录  
@@ -13,6 +15,7 @@ sql_script
 
 ### 初始化数据库  
 进入D:\audit\sql_script，双击run.bat执行脚本
+- 如果MySQL是手动安装的，按照视频方式初始化数据库
 
 
 ### 配置环境变量
@@ -22,7 +25,7 @@ AUDIT_PWD：安装数据库时设置的用户密码
 
 
 ### 启动应用并加载到Windows服务(服务器重启后无需再次执行)
-进入D:\nginx，双击执行install.bat  
+进入D:\audit\nginx，双击执行install.bat  
 进入D:\audit\apps\audit_server，双击执行server_install.bat  
 进入D:\audit\apps\audit_mgmt，双击执行mgmt_install.bat  
 进入D:\audit\apps\audit_message_socket，双击执行socket_install.bat  
